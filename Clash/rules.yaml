@@ -1,0 +1,11 @@
+payload:
+  # 1. 完整域名匹配（精确匹配）
+
+  # 2. 域名后缀匹配（最常用，匹配所有子域名）
+  - DOMAIN‑SUFFIX,freecloud.ltd
+
+  # 3. 关键词匹配（域名包含该字符）
+  - DOMAIN‑KEYWORD,jrs
+  - DOMAIN-KEYWORD,sportsteam
+  - DOMAIN-KEYWORD,jrkan
+  - DOMAIN-KEYWORD,hax
