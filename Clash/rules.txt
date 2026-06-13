@@ -4,3 +4,4 @@ DOMAIN-KEYWORD,sportsteam
 DOMAIN-KEYWORD,jrkan
 DOMAIN-KEYWORD,hax
 DOMAIN-KEYWORD,freecloud
+DOMAIN-FUFFIX,dash.cloudflare.com
